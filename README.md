@@ -9,13 +9,16 @@
 ## Usage
 
 ```bash
-git clone git@github.com:chriscandy/webpack-4-starter.git
-yarn
+git clone git@github.com:chriscandy/webpack-4-starter.git     # clone the repo
+yarn                                                          # install all dependencies
+yarn dev                                                      # fire up the webpack-dev-server
 ```
+
+### Styles
+
+CSS are generated from SCSS files located in the `./src/scss` directory.
 
 ## Todo
 
-- Add support for SCSS
-  - Most of the time I use SCSS when coding styles.
 - ESLint + Prettier integration
   - For consistent code styling.
