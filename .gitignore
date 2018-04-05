@@ -1,0 +1,6 @@
+# Node/Yarn specific
+node_modules
+yarn-error.log
+
+# Compiled files
+dist
