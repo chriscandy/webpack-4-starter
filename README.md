@@ -1,6 +1,6 @@
 # Webpack 4 Starter
 
-This is a simple starter repo for a Webpack 4 project.
+> A simple starter repo for a Webpack 4 project.
 
 - Production and development modes
 - Babel transpiling from ES6 to ES5
@@ -8,6 +8,6 @@ This is a simple starter repo for a Webpack 4 project.
 
 ## Usage
 ```
-$ git clone <repo>
+$ git clone git@github.com:chriscandy/webpack-4-starter.git
 $ yarn
 ```
