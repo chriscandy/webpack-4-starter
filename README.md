@@ -4,6 +4,7 @@
 
 - Production and development modes
 - Babel transpiling from ES6 to ES5
+- SCSS support
 - Webpack Dev Server
 
 ## Usage
@@ -20,5 +21,10 @@ CSS are generated from SCSS files located in the `./src/scss` directory.
 
 ## Todo
 
-- ESLint + Prettier integration
-  - For consistent code styling.
+- React or Vue?
+
+## Done
+
+- SCSS support
+- ESLint
+  - This might be refactored. Not sure if it's the best possible setup.
