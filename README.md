@@ -12,6 +12,7 @@
 git clone git@github.com:chriscandy/webpack-4-starter.git     # clone the repo
 yarn                                                          # install all dependencies
 yarn dev                                                      # fire up the webpack-dev-server
+yarn build                                                    # build production ready project
 ```
 
 ### Styles
